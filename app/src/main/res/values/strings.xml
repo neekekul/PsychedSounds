@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Psyched Sounds</string>
+    <string name="favorite_name">Favorite Sounds</string>
+    <string name="vox_name">VOX</string>
+
+
+    <string name="action_favorite">Favorites</string>
+    <string name="action_removefav">Remove Favorite</string>
+    <string name="action_loops">More Loops</string>
+    <string name="action_instruments">More Instruments</string>
+    <string name="action_vox">More Vox</string>
+
+    <string name="action_save">Share</string>
+    <string name="action_set">Set as…</string>
+    <string name="action_fav">Favorite</string>
+
+    <string-array name="soundTitles">
+        <item>Airy Hit</item>
+        <item>Alarm</item>
+        <item>Ambition</item>
+        <item>Anotha One</item>
+        <item>Argh</item>
+        <item>Aye</item>
+        <item>Ayy</item>
+        <item>Balloon Hit</item>
+        <item>Bang</item>
+        <item>Bass</item>
+        <item>Bless Up</item>
+        <item>Bonk</item>
+        <item>Bop Delay</item>
+        <item>Bounce</item>
+        <item>Bubbly</item>
+        <item>Bush</item>
+        <item>$$$</item>
+        <item>Cha</item>
+        <item>Church Bell</item>
+        <item>Church Bell(E)</item>
+        <item>Church Bell(F)</item>
+        <item>Contemplation</item>
+        <item>Christmas</item>
+        <item>Cosmic</item>
+        <item>Creepin</item>
+        <item>Crow</item>
+        <item>Cuba</item>
+        <item>DBZ</item>
+        <item>Diamonds</item>
+        <item>Dog Bark</item>
+        <item>Eagle Cry</item>
+        <item>Eerie</item>
+        <item>Elephant</item>
+        <item>Fireplace</item>
+        <item>Flee</item>
+        <item>Glass Break</item>
+        <item>Glass Break2</item>
+        <item>God Stab</item>
+        <item>Grease</item>
+        <item>Ha</item>
+        <item>Hailie</item>
+        <item>Hammer</item>
+        <item>Hay</item>
+        <item>Heartbeat</item>
+        <item>Hello</item>
+        <item>Hey</item>
+        <item>Hi</item>
+        <item>Hiccup</item>
+        <item>Hold Up</item>
+        <item>Holla</item>
+        <item>Hollup</item>
+        <item>AirHorn</item>
+        <item>Hostility</item>
+        <item>Hush</item>
+        <item>I Like That</item>
+        <item>Jaimaicandrum</item>
+        <item>Keep it 100</item>
+        <item>Knife Slice</item>
+        <item>Knife Slice2</item>
+        <item>Listen</item>
+        <item>LIT</item>
+        <item>London</item>
+        <item>Louder</item>
+        <item>Lurch</item>
+        <item>Metallic</item>
+        <item>MindBender</item>
+        <item>Nave Shot</item>
+        <item>NowtoYourLocalForcast</item>
+        <item>OH</item>
+        <item>Oh Dear</item>
+        <item>Oh My Gosh</item>
+        <item>OJ</item>
+        <item>One Hunnid</item>
+        <item>Over</item>
+        <item>Paah</item>
+        <item>Pimp</item>
+        <item>Pink Noise</item>
+        <item>Pitchdrop Hit</item>
+        <item>Pitchy Slide</item>
+        <item>Pop Rocks</item>
+        <item>Pop Roll</item>
+        <item>RIP</item>
+        <item>Roads Ahead</item>
+        <item>Sam</item>
+        <item>School bell</item>
+        <item>Scratchy</item>
+        <item>Scratchy2</item>
+        <item>Scream</item>
+        <item>Shell Drop</item>
+        <item>Short Sweep</item>
+        <item>Sine Flop</item>
+        <item>Six</item>
+        <item>Soul</item>
+        <item>Streaks</item>
+        <item>Streets</item>
+        <item>Sunday Morning</item>
+        <item>Sunset</item>
+        <item>Sword Slice</item>
+        <item>Sword Slice2</item>
+        <item>Syrup Hit</item>
+        <item>The Zoo</item>
+        <item>Toronto</item>
+        <item>Trippy</item>
+        <item>Trophies</item>
+        <item>Turntable</item>
+        <item>Turntable2</item>
+        <item>Twinkle</item>
+        <item>Under The Weather</item>
+        <item>Victory</item>
+        <item>War Horn</item>
+        <item>Water Drop</item>
+        <item>Water Drop2</item>
+        <item>Waves</item>
+        <item>Weep</item>
+        <item>White Noise</item>
+        <item>White Noise Hit</item>
+        <item>WhoWantsTheBass</item>
+        <item>Wide Drop</item>
+        <item>Work</item>
+        <item>Zap</item>
+        <item>Zap2</item>
+        <item>Zap3</item>
+    </string-array>
+
+</resources>

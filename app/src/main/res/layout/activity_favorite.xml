@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorGrayDark"
+    tools:context=".FavoriteActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/layout">
+
+        <android.support.v7.widget.Toolbar
+            android:layout_height="60dp"
+            android:layout_width="match_parent"
+            android:background="@color/colorPrimary"
+            android:id="@+id/my_toolbar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            android:elevation="4dp">
+
+        </android.support.v7.widget.Toolbar>
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/my_toolbar"
+            android:id="@+id/soundBoard"
+            android:scrollbars="vertical"
+            android:scrollbarThumbVertical="@color/colorPrimary"
+            android:scrollbarSize="6dp">
+
+        </android.support.v7.widget.RecyclerView>
+
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

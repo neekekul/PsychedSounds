@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="140dp"
+    android:background="@color/colorGrayDark">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/buttonImage"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/sound_button_icon"/>
+    
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:id="@+id/buttonLabel"
+        android:layout_below="@+id/buttonImage"
+        android:textColor="@color/colorTextWhite"
+        android:textSize="15sp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:textAlignment="gravity"
+        android:textAllCaps="false"/>
+
+</RelativeLayout>
